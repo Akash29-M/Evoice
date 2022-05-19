@@ -1,0 +1,12 @@
+#include <WiFi.h>
+#include "time.h"
+#include <WiFiClient.h>
+#include <WebServer.h>
+#include <ESPmDNS.h>
+#include <Talkie.h>
+#include <HTTPClient.h>
+#include <EEPROM.h>
+#include "SoundData.h"
+#include "XT_DAC_Audio.h"
+#include "Adafruit_Thermal.h"
+#include <SoftwareSerial.h>
